@@ -12,7 +12,7 @@
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "testdns123"
+      "value": "vm01-diegoropar.cloudapp.net"
     },
     "location": {
       "value": "West US"
